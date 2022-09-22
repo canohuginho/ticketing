@@ -1,0 +1,8 @@
+{
+    "yaml.schemas": {
+        "kubernetes://schema/v1%40service": [
+            "file:///c%3A/Users/cano_/OneDrive/Documentos/ticketing/infra/k8s/auth-depl.yaml",
+            "file:///c%3A/Users/cano_/OneDrive/Documentos/ticketing/infra/k8s/tickets-depl.yaml"
+        ]
+    }
+}
